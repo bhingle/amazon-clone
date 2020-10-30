@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60403903/97723240-94c04080-1af1-11eb-8927-dfe1515ada3c.gif)
 
+![a3](https://user-images.githubusercontent.com/60403903/97724872-7d825280-1af3-11eb-91bc-58bfcd8342f6.PNG)
+
+![a4](https://user-images.githubusercontent.com/60403903/97725311-0b5e3d80-1af4-11eb-90a7-132f12719632.PNG)
+
+![a2](https://user-images.githubusercontent.com/60403903/97724867-7c512580-1af3-11eb-9bc8-bf7480894f7f.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
